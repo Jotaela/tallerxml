@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE matricula SYSTEM "matricula.dtd">
+<matricula>
+  <casa>Gryffindor</casa>
+  <alumnes>
+    <alumne>
+      <nom>Harry Potter</nom>
+      <any>2013</any>
+      <assignatures>
+        <assignatura>Defensa contra las artes oscuras</assignatura>
+        <assignatura>Pociones</assignatura>
+      </assignatures>
+    </alumne>
+    <alumne>
+      <nom>Ronald Weasley</nom>
+      <any>2013</any>
+      <assignatures>
+        <assignatura>Pociones</assignatura>
+      </assignatures>
+    </alumne>
+    <alumne>
+      <nom>Draco Malfoy</nom>
+      <any>2013</any>
+      <assignatures>
+        <assignatura>Pociones</assignatura>
+        <assignatura>Adivinación</assignatura>
+      </assignatures>
+    </alumne>
+    <alumne>
+      <nom>Hermione Granger</nom>
+      <any>2012</any>
+      <assignatures>
+        <assignatura>Defensa contra las artes oscuras</assignatura>
+      </assignatures>
+    </alumne>
+    <alumne>
+      <nom>Cedric Diggory</nom>
+      <any>2012</any>
+      <assignatures>
+        <assignatura>Defensa contra las artes oscuras</assignatura>
+        <assignatura>Pociones</assignatura>
+      </assignatures>
+    </alumne>
+    <alumne>
+      <nom>Cho Chang</nom>
+      <any>2013</any>
+      <assignatures>
+        <assignatura>Defensa contra las artes oscuras</assignatura>
+        <assignatura>Pociones</assignatura>
+      </assignatures>
+    </alumne>
+    <alumne>
+      <nom>Neville Longbottom</nom>
+      <any>2013</any>
+      <assignatures>
+        <assignatura>Pociones</assignatura>
+      </assignatures>
+    </alumne>
+    <alumne>
+      <nom>Luna Lovegood</nom>
+      <any>2013</any>
+      <assignatures>
+        <assignatura>Defensa contra las artes oscuras</assignatura>
+        <assignatura>Pociones</assignatura>
+        <assignatura>Adivinación</assignatura>
+      </assignatures>
+    </alumne>
+  </alumnes>
+</matricula>

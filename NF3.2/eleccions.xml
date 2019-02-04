@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE eleccions SYSTEM "eleccions.dtd">
+<eleccions> 
+    <descripcio>Prefectes de la casa Gryffindor</descripcio>
+    <dades>
+        <data>2010-11-29</data>
+        <cens>300</cens>
+        <abstencio>48</abstencio>
+        <blancs>12</blancs>
+    </dades>
+    <resultats>
+        <candidat>
+            <nom>Percy Weasley</nom>
+            <vots>100</vots>
+        </candidat>
+        <candidat>
+            <nom>Hannah Abbott</nom>
+            <vots>20</vots>
+        </candidat>
+        <candidat>
+            <nom>Chester Davis</nom>
+            <vots>40</vots>
+        </candidat>
+        <candidat>
+            <nom>Penélope Clearwater</nom>
+            <vots>50</vots>
+        </candidat>
+        <candidat>
+            <nom>Cedric Diggory</nom>
+            <vots>50</vots>
+        </candidat>        
+    </resultats>    
+</eleccions>
